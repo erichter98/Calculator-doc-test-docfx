@@ -1,0 +1,10 @@
+### YamlMime:TableOfContent
+items:
+- uid: MyNamespace
+  name: MyNamespace
+  type: Namespace
+  items:
+  - uid: MyNamespace.Calculator
+    name: Calculator
+    type: Class
+memberLayout: SamePage

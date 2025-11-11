@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: MyNamespace
+  commentId: N:MyNamespace
+  id: MyNamespace
+  children:
+  - MyNamespace.Calculator
+  langs:
+  - csharp
+  - vb
+  name: MyNamespace
+  nameWithType: MyNamespace
+  fullName: MyNamespace
+  type: Namespace
+  assemblies:
+  - Calculator-doc-test
+references:
+- uid: MyNamespace.Calculator
+  commentId: T:MyNamespace.Calculator
+  href: MyNamespace.Calculator.html
+  name: Calculator
+  nameWithType: Calculator
+  fullName: MyNamespace.Calculator

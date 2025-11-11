@@ -1,0 +1,31 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MyNamespace
+  name: MyNamespace
+  href: docs/MyNamespace.html
+  commentId: N:MyNamespace
+  fullName: MyNamespace
+  nameWithType: MyNamespace
+- uid: MyNamespace.Calculator
+  name: Calculator
+  href: docs/MyNamespace.Calculator.html
+  commentId: T:MyNamespace.Calculator
+  fullName: MyNamespace.Calculator
+  nameWithType: Calculator
+- uid: MyNamespace.Calculator.DoOperation(System.Double,System.Double,System.String)
+  name: DoOperation(double, double, string)
+  href: docs/MyNamespace.Calculator.html#MyNamespace_Calculator_DoOperation_System_Double_System_Double_System_String_
+  commentId: M:MyNamespace.Calculator.DoOperation(System.Double,System.Double,System.String)
+  name.vb: DoOperation(Double, Double, String)
+  fullName: MyNamespace.Calculator.DoOperation(double, double, string)
+  fullName.vb: MyNamespace.Calculator.DoOperation(Double, Double, String)
+  nameWithType: Calculator.DoOperation(double, double, string)
+  nameWithType.vb: Calculator.DoOperation(Double, Double, String)
+- uid: MyNamespace.Calculator.DoOperation*
+  name: DoOperation
+  href: docs/MyNamespace.Calculator.html#MyNamespace_Calculator_DoOperation_
+  commentId: Overload:MyNamespace.Calculator.DoOperation
+  isSpec: "True"
+  fullName: MyNamespace.Calculator.DoOperation
+  nameWithType: Calculator.DoOperation

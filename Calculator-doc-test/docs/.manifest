@@ -1,0 +1,5 @@
+{
+  "MyNamespace": "MyNamespace.yml",
+  "MyNamespace.Calculator": "MyNamespace.Calculator.yml",
+  "MyNamespace.Calculator.DoOperation(System.Double,System.Double,System.String)": "MyNamespace.Calculator.yml"
+}
