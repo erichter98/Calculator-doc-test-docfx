@@ -14,8 +14,12 @@ items:
   fullName: MyNamespace.Calculator
   type: Class
   source:
+    remote:
+      path: Calculator-doc-test/Program.cs
+      branch: main
+      repo: https://github.com/erichter98/Calculator-doc-test-docfx.git
     id: Calculator
-    path: C:\Users\erichter\source\repos\Calculator-doc-test\Calculator-doc-test\Program.cs
+    path: Program.cs
     startLine: 16
   assemblies:
   - Calculator-doc-test
@@ -55,8 +59,12 @@ items:
   fullName: MyNamespace.Calculator.DoOperation(double, double, string)
   type: Method
   source:
+    remote:
+      path: Calculator-doc-test/Program.cs
+      branch: main
+      repo: https://github.com/erichter98/Calculator-doc-test-docfx.git
     id: DoOperation
-    path: C:\Users\erichter\source\repos\Calculator-doc-test\Calculator-doc-test\Program.cs
+    path: Program.cs
     startLine: 29
   assemblies:
   - Calculator-doc-test

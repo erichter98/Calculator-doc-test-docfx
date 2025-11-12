@@ -12,24 +12,24 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "docs/MyNamespace.Calculator.yml",
+      "source_relative_path": "api/MyNamespace.Calculator.yml",
       "output": {
         ".html": {
-          "relative_path": "docs/MyNamespace.Calculator.html"
+          "relative_path": "api/MyNamespace.Calculator.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
       "Title": "MyNamespace.Calculator",
-      "Summary": "<p sourcefile=\"docs/MyNamespace.Calculator.yml\" sourcestartlinenumber=\"1\">Simple utility class that provides basic arithmetic operations for two <xref href=\"System.Double\" data-throw-if-not-resolved=\"false\"></xref> values.</p>\n"
+      "Summary": "<p sourcefile=\"api/MyNamespace.Calculator.yml\" sourcestartlinenumber=\"1\">Simple utility class that provides basic arithmetic operations for two <xref href=\"System.Double\" data-throw-if-not-resolved=\"false\"></xref> values.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "docs/MyNamespace.yml",
+      "source_relative_path": "api/MyNamespace.yml",
       "output": {
         ".html": {
-          "relative_path": "docs/MyNamespace.html"
+          "relative_path": "api/MyNamespace.html"
         }
       },
       "version": "",
@@ -37,6 +37,19 @@
       "IsMRef": true,
       "Title": "MyNamespace",
       "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
     },
     {
       "type": "Conceptual",

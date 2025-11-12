@@ -1,18 +1,18 @@
 {
-  "docs/MyNamespace.Calculator.html": {
-    "href": "docs/MyNamespace.Calculator.html",
+  "api/MyNamespace.Calculator.html": {
+    "href": "api/MyNamespace.Calculator.html",
     "title": "Class Calculator",
     "summary": "Class Calculator Namespace MyNamespace Assembly Calculator-doc-test.dll Simple utility class that provides basic arithmetic operations for two double values. public class Calculator Inheritance object Calculator Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Examples double sum = Calculator.DoOperation(5.0, 3.0, \"a\"); // returns 8.0 double quotient = Calculator.DoOperation(10.0, 0.0, \"d\"); // returns double.NaN (division by zero) Remarks This class exposes a single static operation method intended for small console examples and documentation. It is intentionally minimal: callers provide two operands and an operation code. Methods DoOperation(double, double, string) Provides simple arithmetic operations for two double values. public static double DoOperation(double num1, double num2, string op) Parameters num1 double num2 double op string Returns double Remarks Supported operations: 'a' - Add, 's' - Subtract, 'm' - Multiply, 'd' - Divide (returns double if divisor is zero). The method returns double for unrecognized operation codes."
   },
-  "docs/MyNamespace.html": {
-    "href": "docs/MyNamespace.html",
+  "api/MyNamespace.html": {
+    "href": "api/MyNamespace.html",
     "title": "Namespace MyNamespace",
     "summary": "Namespace MyNamespace Classes Calculator Simple utility class that provides basic arithmetic operations for two double values."
   },
   "docs/getting-started.html": {
     "href": "docs/getting-started.html",
     "title": "Getting Started",
-    "summary": "Getting Started"
+    "summary": "Getting Started this is a markdown file"
   },
   "docs/introduction.html": {
     "href": "docs/introduction.html",
